@@ -1,8 +1,4 @@
-﻿server:
-  port: 8202
-spring:
-  profiles: test1
-  application: microservicecloud-config-test1
+
 eureka:
   client:
     service-url:
