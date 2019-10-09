@@ -1,0 +1,3 @@
+﻿server:
+  port: 8001
+  prod: prod
